@@ -6,6 +6,13 @@ public class Customer {
     private long mobileNumber;
     private String eMail;
     private boolean premiumMembership;
+    Customer(){
+        String name;
+        String address;
+        long mobileNumber;
+        String eMail;
+        boolean premiumMembership;
+    }
 
 
 }

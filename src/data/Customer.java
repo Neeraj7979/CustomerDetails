@@ -7,7 +7,7 @@ public class Customer {
     private String eMail;
     private boolean premiumMembership;
     public Customer(){
-         name="John";
+        name="John";
         address="177A Bleecker Street";
         mobileNumber=8987675654L;
         eMail="john123@gmail.com";
@@ -22,7 +22,7 @@ public class Customer {
     }
 
     public void display(){
-        System.out.println(" customer name = " + name);
+        System.out.println("Customer name = " + name);
         System.out.println("address = " + address);
         System.out.println("mobileNumber = " + mobileNumber);
         System.out.println("eMail = " + eMail);

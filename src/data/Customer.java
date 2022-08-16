@@ -13,6 +13,13 @@ public class Customer {
         String eMail;
         boolean premiumMembership;
     }
+    Customer(String name,String address,long mobileNumber,String eMail,boolean premiumMembership){
+        this.name=name;
+        this.address=address;
+        this.mobileNumber=mobileNumber;
+        this.eMail=eMail;
+        this.premiumMembership=premiumMembership;
+    }
 
 
 }

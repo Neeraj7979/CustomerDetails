@@ -1,0 +1,27 @@
+"C:\Program Files\Java\jdk-18.0.1.1\bin\java.exe" -javaagent:C:\Users\imnsi\AppData\Local\JetBrains\Toolbox\apps\IDEA-C\ch-0\221.6008.13\lib\idea_rt.jar=61514:C:\Users\imnsi\AppData\Local\JetBrains\Toolbox\apps\IDEA-C\ch-0\221.6008.13\bin -Dfile.encoding=UTF-8 -classpath C:\Users\imnsi\Desktop\NiitJavaProjects\course3\Sprint2\Customer\out\production\Customer main.CustomerImpl
+
+Result before Swapping values of c1 and c2
+Customer name = Sam
+address = 4th down street NewYork
+mobileNumber = 7878765678
+eMail = sam@gmail.com
+Is premium Member = true
+Customer name = John
+address = 177A Bleecker Street
+mobileNumber = 8987675654
+eMail = john123@gmail.com
+Is premium Member = false
+
+Result after Swapping values of c1 and c2
+Customer name = John
+address = 177A Bleecker Street
+mobileNumber = 8987675654
+eMail = john123@gmail.com
+Is premium Member = false
+Customer name = Sam
+address = 4th down street NewYork
+mobileNumber = 7878765678
+eMail = sam@gmail.com
+Is premium Member = true
+
+Process finished with exit code 0

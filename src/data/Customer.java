@@ -1,16 +1,16 @@
 package data;
 
 public class Customer {
-    private  String name;
+    private   String name;
     private  String address;
     private long mobileNumber;
     private String eMail;
     private boolean premiumMembership;
     public Customer(){
-         name="";
-        address="";
-        mobileNumber=0;
-        eMail="";
+         name="John";
+        address="177A Bleecker Street";
+        mobileNumber=8987675654L;
+        eMail="john123@gmail.com";
         premiumMembership=false;
     }
     public Customer(String name,String address,long mobileNumber,String eMail,boolean premiumMembership){
